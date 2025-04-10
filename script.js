@@ -137,8 +137,6 @@ let result2 = //Realiza la operación de comparación que consideres con las dos
 console.log(result2)
 */
 
-num3 = 1
-num3AsString = "1"
 let result2 = num3 == num3AsString
 console.log(result2)
 
